@@ -22,27 +22,7 @@ Código documentado
 Subido a GitHub 
 Desplegado en la nube (Netlify)
 
-
-Tutorial del proceso 
-5. Estructura del proyecto 
-parcial_2/ 
-├── assets/ 
-│  └── favicon.jpg 
-├── parcial_2/ 
-│  └── main.py 
-├── .gitignore 
-├── README.md 
-└── reflex.config.json 
-
-
-6. Cómo subir el proyecto a GitHub 
-Estado 
-Cumplido 
-Cumplido 
-Incluido 
-[instrucciones abajo] 
-[instrucciones abajo] 
-Incluido 
+ 4. Como crear el repositorio
 1. Crea un repositorio nuevo en https://github.com 
 2. En tu terminal: 
 cd parcial_2 
@@ -50,8 +30,10 @@ git init
 git add . 
 git commit -m "parcial_2" 
 git remote add origin https://github.com/timcito/parcial_2.git 
-git push -u origin main 
-6. Cómo desplegar gratis con Reflex 
+git push -u origin main
+
+
+5. Cómo desplegar gratis con Reflex 
 1. Ejecuta: reflex export 
 2. Se creará una carpeta out/ 
 3. Ve a https://reflex.dev/ / y crea un sitio 
