@@ -20,7 +20,7 @@ Uso obligatorio del framework Reflex
 Página con tema libre y diseño sencillo 
 Código documentado 
 Subido a GitHub 
-Desplegado en la nube (Netlify)
+Desplegado en la nube (Reflex)
 
  4. Como crear el repositorio
 1. Crea un repositorio nuevo en https://github.com 
