@@ -24,13 +24,20 @@ Desplegado en la nube (Reflex)
 
  
 4. Crea un repositorio nuevo en https://github.com 
-- En tu terminal: 
+- En tu terminal:
+  
 -cd parcial_2 
+
 -git init 
+
 -git add . 
+
 -git commit -m "parcial_2" 
+
 -git remote add origin https://github.com/timcito/parcial_2.git 
+
 -git push -u origin main
+
 
 
 5. Cómo desplegar gratis con Reflex 
