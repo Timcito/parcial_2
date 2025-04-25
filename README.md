@@ -9,17 +9,22 @@ moderna con las siguientes características adicionales:
 galaxias) 
 • Optimización de imágenes para carga rápida 
 • Validación de enlaces externos para garantizar fuentes confiables 
+
 2. Buenas prácticas aplicadas - Separación clara entre estado (State) y presentación (index()). - Reutilización de componentes (rx.card, rx.vstack, rx.hstack). - Uso de variables reactivas para manejar interactividad (State.cantidad). - Código legible, comentado y modular. - Estilo visual consistente, limpio y moderno. - Datos organizados en una lista curiosidades[] que se puede expandir fácilmente - También en accesibilidad Texto alternativo para todas las imágenes - Contraste de colores WCAG AA compliant 
-- Navegación mediante teclado 
+- Navegación mediante teclado
+
+  
 3. Requisitos del parcial cubiertos 
 Requisito 
 Uso obligatorio del framework Reflex 
 Página con tema libre y diseño sencillo 
 Código documentado 
 Subido a GitHub 
-Desplegado en la nube (Netlify) 
+Desplegado en la nube (Netlify)
+
+
 Tutorial del proceso 
-4. Estructura del proyecto 
+5. Estructura del proyecto 
 parcial_2/ 
 ├── assets/ 
 │  └── favicon.jpg 
@@ -28,7 +33,9 @@ parcial_2/
 ├── .gitignore 
 ├── README.md 
 └── reflex.config.json 
-5. Cómo subir el proyecto a GitHub 
+
+
+6. Cómo subir el proyecto a GitHub 
 Estado 
 Cumplido 
 Cumplido 
